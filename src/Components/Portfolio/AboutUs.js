@@ -26,7 +26,7 @@ export default class AboutUs extends Component {
                 with care. <br /> A luxurious experience awaits, whether for
                 coffee or a full meal.
               </p>
-              <button className="hero-button flex  items-center justify-center gap-3 font-semibold px-6 py-3 bg-[#9B3733] text-white rounded-full hover:bg-[#9c5249] mt-3">
+              <button className="flex  items-center justify-center gap-3 font-semibold px-6 py-3 bg-[#9B3733] text-white rounded-full hover:bg-[#9c5249] mt-3">
                 View Menu
               </button>
             </div>
